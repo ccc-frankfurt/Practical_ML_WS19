@@ -26,7 +26,7 @@ Below, each date lists the topics that will be introduced, followed by the pract
 * 28.10: Random forests from scratch -> Revisiting Titanic 
 * 04.11: Random forests application, into to sklearn -> San Francisco crime challenge
 * 11.11: Basic neural networks from scratch -> Multi-layer perceptron for classification of fashion images
-* 18.11: Introduction to PyTorch for deep learning, convolutional neural networks -> Reading traditional japanese characters (Kuzushiji)
+* 18.11: Introduction to PyTorch for deep learning, convolutional neural networks -> Reading traditional Japanese characters (Kuzushiji)
 * 25.11: Neural sequence models, recurrent neural networks -> Shakespeare poetry text generation
 
 #### Unsupervised learning
